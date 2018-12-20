@@ -1,0 +1,83 @@
+body{font-family: -apple-system,'Segoe UI', Oxygen, Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+h1{
+      background-color: rgb(85, 26, 139);
+      color: white;
+      padding: 20px;
+      
+}
+
+.static-page__title {
+      background: linear-gradient(90deg,#cd122d,#154284);
+      color: #fff;
+      text-align: center;
+}
+
+.container-1{
+      margin: auto;
+      width: 400px;
+}
+
+.header .navbar{
+      background:linear-gradient(90deg,#cd122d,#154284) ;
+      color:white ;
+}
+
+.header .navbar ul{
+      list-style: none;
+      overflow: hidden;
+      
+
+}
+
+.header .navbar ul li{
+      padding: 10px;
+      text-align: center;
+      float: left;
+
+}
+
+.specific{
+      color: blue;
+}
+
+.words{
+      color: red;
+}
+
+#page{
+      text-align: center;
+      font-weight: bold;
+
+}
+
+.features{
+      overflow: hidden;
+}
+
+.image{
+      margin: auto;
+      width: 500px;      
+}
+
+ul li a{
+      text-decoration: none;
+      color: white;
+}
+
+ul li a:hover{
+      color: #154284;
+}
+
+
+
+.a{
+      background-color: dodgerblue;
+      margin-bottom: 10px;
+      padding: 10px;
+}
+
+
+
+
+
